@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 PathForge AI
+# PathForge AI
 
 ### AI-Powered Personalized Learning Roadmap Generator
 
