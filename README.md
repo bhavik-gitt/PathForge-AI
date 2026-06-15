@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 PathForge AI
+# PathForge AI
 
 ### AI-Powered Personalized Learning Roadmap Generator
 
@@ -428,6 +428,6 @@ This project is licensed under the MIT License.
 
 ### 🌟 Building the Future of Personalized Learning with AI
 
-Made with ❤️ by Bhavik Ratnottar
+Made with ❤️ by Bhavik 
 
 </div>
