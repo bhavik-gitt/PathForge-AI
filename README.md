@@ -9,7 +9,7 @@ Transform career goals into structured learning paths with AI-generated roadmaps
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-Next.js-black)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-green)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Database](https://img.shields.io/badge/Database-MongoDB-blue)
 ![AI](https://img.shields.io/badge/AI-Gemini%20API-red)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
