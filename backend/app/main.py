@@ -8,5 +8,5 @@ app = FastAPI(
 @app.get("/")
 def root():
     return {
-        "message": "PathForge AI Backend Running"
+        "message": "PathForge AI Backend Running..."
     }
