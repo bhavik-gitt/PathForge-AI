@@ -1,16 +1,37 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
 
-# Virtual Env
+# Virtual Environment
 venv/
 
-# Environment
+# Environment Variables
 .env
 
-# IDE
+# Logs
+logs/
+*.log
+
+# Uploads
+uploads/
+
+# Test cache
+.pytest_cache/
+
+# VS Code
 .vscode/
+
+# JetBrains
 .idea/
 
 # OS
 .DS_Store
+Thumbs.db
+
+# Database
+*.db
+
+# Build
+dist/
+build/
